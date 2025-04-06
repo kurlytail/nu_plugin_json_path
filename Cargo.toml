@@ -34,3 +34,5 @@ lto = "thin"
 
 [profile.dev]
 opt-level = 0
+
+[workspace]
